@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - cs/db
 created: 2026-03-09
 status: draft
 type: concept
@@ -8,7 +9,7 @@ type: concept
 
 # Database Management System
 
-> It's a software that manages a [[Introduction To Databases|db]] by providing mechanisms to **define, create, maintain and control** access to the database. 
+> It's a software that manages a [[Introduction to Databases|db]] by providing mechanisms to **define, create, maintain and control** access to the database. 
 
 ## Responsibilities of DBMS
 1. **Scheme Definition** : defines the structure of the data. 

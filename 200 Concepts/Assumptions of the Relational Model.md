@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - cs/db
 created: 2026-03-09
 status: stable
 type: concept

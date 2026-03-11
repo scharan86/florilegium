@@ -1,12 +1,14 @@
 ---
 tags:
+  - cs/db
+  - trail
 created: 2026-03-08
 type: trailhead
 aliases:
   - NoSQL
   - nosql
 ---
-# NoSQL Databases
+# NoSQL Databases Trailhead
 
 ### Fundamentals
 1. [[Assumptions of the Relational Model]]

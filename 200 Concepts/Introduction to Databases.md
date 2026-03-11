@@ -1,12 +1,12 @@
 ---
-tags: []
+tags:
+  - cs/db
 created: 2026-03-09
 status: draft
 type: concept
 aliases:
-  - db
 ---
----
+# Databases
 
 > A database is an organized collection of structured information or data that models some aspect of the real world (abstraction of reality). 
 

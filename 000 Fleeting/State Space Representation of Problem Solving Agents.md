@@ -1,15 +1,17 @@
 ---
 tags:
-  - cs/db
-created: 2026-03-08
+  - cs/ai/gofai
+  - todo
+created: 2026-03-11
 status: draft
 type: concept
 ---
 ---
-# NoSQL Databases
+# Problem Solving Agents
 
 
 
 ## Questions
 
 ## Reflection 
+

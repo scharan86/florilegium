@@ -1,5 +1,8 @@
 ---
-tags: []
+tags:
+  - cs
+  - cs/db
+  - abstraction
 created: 2026-03-08
 status: draft
 type: concept
@@ -14,7 +17,7 @@ aliases:
 - [[Relational Model]] is a dominant data model that used in various real world systems because of how well it can express business information.
 
  >[!important] Scope of Data Models
- >Data models aren't limited to [[Introduction To Databases|databases]], they are used in any system that stores or processes structured information. The only difference being that databases use explicit data models and other systems (programming languages, app design) use implicit or internal data models. 
+ >Data models aren't limited to [[Introduction to Databases|databases]], they are used in any system that stores or processes structured information. The only difference being that databases use explicit data models and other systems (programming languages, app design) use implicit or internal data models. 
  >
  >- `struct` is an internal data model for application memory.
  >- OO systems often use **object models** to represent domain entities, a.k.a domain modeling.

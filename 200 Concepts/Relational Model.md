@@ -1,6 +1,7 @@
 ---
 tags:
   - abstraction
+  - cs/db
 created: 2026-03-08
 status: draft
 type: concept
