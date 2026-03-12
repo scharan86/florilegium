@@ -15,5 +15,6 @@ A *state* is a representation of the configuration of a problem at a given insta
 - It captures all the information relevant to the problem that separates one situation from another.
 - A state must contain enough information to determine the available actions and what the next state will be after an action is performed.
 ==A state is an abstraction that ignores the irrelevant details of the world and captures only what matters for the problem==.
+
 ## Reflection 
 State is just the configuration of a problem at a given time. It contains info needed to identify a situation uniquely and the actions available.

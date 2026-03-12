@@ -25,11 +25,26 @@ It developed applications such as: knowledge-based systems like expert systems, 
 4. [[State Space]]
 5. [[State Space Representation]]
 6. [[State Space Search]]
-7. [[State Space vs Search Space]]
-8. [[Production Systems in AI]]
+7. [[Production Systems in AI]]
 
-## Search Algorithms & Strategies
-1. [[]]
+### Search Algorithms & Strategies
+1. [[Search Strategy]]
+2. [[Search Algorithms]]
+3. [[Uninformed Search]]
+4. [[Informed Search]]
 
+### Adversarial Search
+1. [[Game Playing in AI]]
+2. [[Zero Sum Game]]
+3. [[Multi Agent Environment]]
+4. [[Game Tree]]
+5. [[Adversarial Search]]
+6. [[Minimax Tree]]
+7. [[Minimax Algorithm]]
+8. [[Alpha Beta Pruning]]
 
+## Differences
+1. [[State Space vs Search Space]]
+2. [[Simple Hill Climbing vs Steepest-Ascent Hill Climbing]]
+3. [[Classical Search vs Adversarial Search]]
 ## Applications
