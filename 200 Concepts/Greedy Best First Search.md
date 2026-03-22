@@ -1,5 +1,7 @@
 ---
 tags:
+  - cs/algo
+  - cs/ai/gofai
 created: 2026-03-12
 status: draft
 type: concept

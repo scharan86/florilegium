@@ -1,8 +1,11 @@
 ---
-tags: []
-created: <% tp.date.now("YYYY-MM-DD") %>
+tags:
+  - cs/ai/ml
+created: 2026-03-15
 status: draft
 type: concept
+aliases:
+  - DGP
 ---
 ---
 

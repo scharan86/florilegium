@@ -4,6 +4,8 @@ tags:
 created: 2026-03-11
 status: draft
 type: concept
+aliases:
+  - state space search
 ---
 ---
 >[!definition]

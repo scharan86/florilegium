@@ -1,6 +1,6 @@
 ---
 tags:
-  - cs/ai/dl
+  - cs/ai/ml
   - trail
 created: 2026-03-09
 type: trailhead
@@ -13,5 +13,25 @@ aliases:
 
 <!-- One sentence on what this domain is and when you enter it. -->
 
-## Core concepts
+## Foundations
+- [[Artificial Neural Networks]]  
+- [[Neuron Model]]  
+- [[Activation Functions]]  
+- [[Backpropagation]]  
+- [[Computational Graph]]
+## Training
+## Loss Function
+## Regularization
 
+## Architectures
+
+## CNN Concepts
+
+## RNN Concepts
+
+## Transformer Concepts
+
+## Training Challenges
+- [[Vanishing Gradient Problem]]  
+- [[Exploding Gradient Problem]]  
+- [[Overfitting]]

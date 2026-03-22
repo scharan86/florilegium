@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - cs/algo
 created: 2026-03-12
 status: draft
 type: concept

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - cs/ai/gofai
 created: 2026-03-12
 status: draft
 type: concept
@@ -14,7 +15,7 @@ type: concept
 *All search strategies are distinguished by the order in which the nodes are expanded.*
 ## Types
 1. [[Uninformed Search]]
-2. [[Informed Search|Heuristic Search]]
+2. [[Heuristic Search|Heuristic Search]]
 
 ## Questions
 
