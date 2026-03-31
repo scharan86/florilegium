@@ -14,9 +14,8 @@ aliases:
  > 
 > A *problem representation* is the specific data structure  and logic used to describe the problem to a computer.
 
-- A search problem is a tuple consisting of five components: Initial State, Actions, Goal Test, Transition Model,  Goal Test, and Path Cost. It's defined using these 5 components.
-
-*Transition model specifies the state that results from applying a particular action to a given state.*
+- A search problem is a tuple consisting of five components: [[Initial State]], [[Actions]], [[Goal Test]], [[Transition Model]],  [[Goal Test]], and [[Path Cost]]. It's defined using these 5 components.
+- Problem representation uses [[Symbolic Representation|symbolic representation]] to encode real-world knowledge into data-structures and logic.
 
 >[!question]- Why do we need problem representation? 
 > Informally, Problem representation translates real-world into code. 
@@ -28,3 +27,4 @@ aliases:
 > ==It defines how the environment behaves and what counts as a solution==
 
  
+## Related Concepts

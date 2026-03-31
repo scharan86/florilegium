@@ -9,7 +9,7 @@ type: concept
 ---
 
 >[!definition]
-A *state* is a representation of the configuration of a problem at a given instant, containing all the information necessary to describe the situation **uniquely** and to determine applicability of **operators**. 
+A *state* is a representation of a specific problem configuration at a given instant, containing all the information necessary to describe the situation **uniquely** and to determine applicability the of **operators**. 
 
 - Complete description of the world at a given point in time. 
 - It captures all the information relevant to the problem that separates one situation from another.

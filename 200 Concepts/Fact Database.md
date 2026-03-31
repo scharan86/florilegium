@@ -9,15 +9,16 @@ aliases:
 ---
 ---
 >[!Working Memory] 
->It is the **dynamic** and impermanent store of everything known to be true. 
+>It is the **dynamic** and impermanent store of everything known to be true in a given reasoning session. 
 
+- a.k.a Working memory
 - It only stores the facts relevant to the current reasoning session. 
 - It is seeded with initial facts provided by the user or the environment at startup. 
 - At its final state, it contains:
 	1. Original state
 	2. All derived conclusions
-- It grows as the [[Expert Systems |expert system]] keeps reasoning.
-- It's data that is specific to a case.
+- During a session, It grows as the [[Expert Systems |expert system]] keeps reasoning.
+- It contains data that is specific to a case.
 - It's primarily used to derive conclusions.
 
 # Working Memory Internals

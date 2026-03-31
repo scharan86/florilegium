@@ -16,7 +16,7 @@ aliases:
 
 - Knowledge engineer acts as the bridge between **humans** and **computer systems** because they facilitate knowledge acquisition. 
 - Knowledge engineer transformers [[Heuristic|heuristic]] and **factual information** into [[Formal Knowledge Representation|formal knowledge representation]].
-- Knowledge engineer updates the [[KB]] without modifying inference engine. I.e. [[Separation of Concerns|separation of concerns]]
+- Knowledge engineer updates the [[Knowledge Base | KB]] without modifying inference engine. I.e. [[Separation of Concerns|separation of concerns]]
 - The biggest challenge knowledge engineers face is: [[Knowledge Acquisition Bottleneck]]. 
 
 ## Core Responsibilities of Knowledge Engineering

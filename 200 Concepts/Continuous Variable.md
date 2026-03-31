@@ -16,3 +16,6 @@ e.g. height, weight.
 ## Types
 1. [[Interval Data]]
 2. [[Ratio Data]]
+
+## Related Concepts
+1. [[Continuous]]

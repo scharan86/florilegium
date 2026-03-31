@@ -15,7 +15,7 @@ aliases:
 
 > It is based on [[DFS]] with backtracking which guarantees to find a solution if done systematically and there exists one.
 > 
-- **Uninformed generate and test search** generates all the possible solutions to a problem blindly and tests them.
+- [[Uninformed Search|Uninformed]] **generate and test search** generates all the possible solutions to a problem blindly and tests them.
 ## Key Properties
 1. It is essentially an exhaustive search in its simplest form.
 2. The efficacy of this search primarily depends on the quality of the generator.
@@ -36,6 +36,7 @@ The basic version is purely bruteforce. However, heuristic can be used at the ge
 - Paths that are unlikely to lead to the goal are deprioritized.
 - It reduces wasted effort on the tester's side.
 Here, heuristic shapes what gets generated.
+- It becomes an [[Heuristic Search|Informed Search]] when heuristics are used at the generator level.
 ## Questions
 
 ## Reflection 

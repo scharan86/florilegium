@@ -15,4 +15,4 @@ aliases:
 - [[Output Space]] of [[Regression|regression]] is a continuous, i.e. regression has a continuous output and $Y$ is a continuous variable.
 
 ## Related Concepts
-1. [[Continuous Variables]]
+1. [[Continuous Variable]]

@@ -5,13 +5,13 @@ created: 2026-03-12
 status: draft
 type: concept
 aliases:
-  - Directed Serach
   - Directed Search Control Strategy
   - Informed Search
+  - Directed Search
 ---
 ---
 >[!definition]
-> *Informed search* is a class of search strategies that uses additional information beyond the problem definition to find solutions more efficiently.
+> *Informed search* is a class of search strategies uses additional information beyond the problem definition to find solutions more efficiently.
 
 - The knowledge is encoded in a **[[Heuristic|heuristic function]]** $h(n)$ where:
 $$ h(n) = estimated \ cost \ of \  the \ cheapest \ path \ from \ the \ state \ at \ node \ n \ to \ a \ goal \ state
@@ -28,16 +28,15 @@ $$ h(n) = estimated \ cost \ of \  the \ cheapest \ path \ from \ the \ state \ 
 1. [[Greedy Best First Search]]
 2. [[Generate and Test Search|Heuristic-Assisted Generate and Test Search]]
 3. [[Hill Climbing]]
-4. [[Steepest-Ascent Hill Climbing]]
-5. [[Simulated Annealing]]
-6. [[Local Beam Search]]
-7. [[A* Algorithm]]
-8. [[Problem Reduction]]
-9. [[AND-OR Search]]
-10. [[Constraint Search]]
-11. [[Means-end Analysis]]
-12. [[Ant Colony Optimization]]
-13. [[Genetic Algorithms]]
+4. [[Simulated Annealing]]
+5. [[Local Beam Search]]
+6. [[A* Algorithm]]
+7. [[Problem Reduction]]
+8. [[AND-OR Search]]
+9. [[Constraint Search]]
+10. [[Means-end Analysis]]
+11. [[Ant Colony Optimization]]
+12. [[Genetic Algorithms]]
 
 ## Questions
 

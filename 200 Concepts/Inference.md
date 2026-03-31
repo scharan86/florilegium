@@ -21,5 +21,5 @@ type: concept
 ## Components in inference
 1. **Knowledge**: Rules or logical statements.
 2. **Facts**: Statements known to be true in the current situation.
-3. **Reasoning Mechanism**: Procedure that applies rules to facts to derive new knowledge. In [[Expert Systems| expert systems]], this mechanism is generally a [[Production Systems In AI| production system]]. 
+3. **Reasoning Mechanism**: Procedure that applies rules to facts to derive new knowledge. In [[Expert Systems| expert systems]], this mechanism is generally a [[Production Systems| production system]]. 
 

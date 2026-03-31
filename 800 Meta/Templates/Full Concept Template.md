@@ -9,10 +9,10 @@ type: concept
 >[!Definition]
 >
 
-## Intuition
 ## Mechanism / Explanation
 ## Properties
 ## Advantages
 ## Limitations
 ## Applications
+## Summary
 ## Related Concepts

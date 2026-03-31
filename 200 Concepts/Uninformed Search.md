@@ -10,18 +10,16 @@ aliases:
 ---
 ---
 >[!definition] 
->*Uninformed Search* is a class of search strategies that explore a problem's state pace **without any additional information** about states other than what is provided in the problem's defintion.
+>*Uninformed Search* is a class of search strategies that explore a problem's state space (systematically) **without any additional information** about states other than what is provided in the problem's definition.
 
 - Uninformed search algorithms are aware of the following: 
 	1. Initial State 
 	2. Transition Model (How to generate successor states)
 	3. Goal Test (How to test if a state is the goal state)
-	
 - It has no heuristics, no cost estimate, no preferences.
-
 - It doesn't have any domain-specific knowledge about the goal.
-   
 - In simple terms, it explores the state space until the goal is found or the space is exhausted.
+- Also known as **Blind Search** or Blind Search Control Strategy.
 ## Key Features
 1. They explore the search space systematically using BFS or DFS.
 2. They don't use additional information (domain-specific knowledge) to guide the search process.

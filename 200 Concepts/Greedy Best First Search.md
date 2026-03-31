@@ -10,14 +10,10 @@ type: concept
 >[!concept]
 >Greedy Best-first search expands the node the lowest $h(n)$. I.e, the one that looks closest to the goal. It's fast but not optimal as it ignores the cost already incurred to reach the current node.
 
+- It's an [[Heuristic Search|informed search strategy]]
 - It evaluates the nodes just by the heuristic function. $f(n) = h(n)$ where $f(n)$ is the evaluation function.
 - At each step, it uses the heuristic function and selects the most promising node generated so far.
 - It always picks the node that looks closest to the goal according to the heuristic. 
-
->[!important] Comparison with DFS and BFS
->It behaves somewhat like DFS in spirit because it chases the most promising-looking path deeply rather spreading out level by level. This makes it fast in practice when the heuristic function is good. 
->
->It doesn't inherit BFS's guarantee of finding the shortest path and doesn't systematically explore breadth-first at any point.
 
 ## Algorithm
 **Open list**: nodes discovered but unexplored.

@@ -8,7 +8,7 @@ type: concept
 ---
 
 >[!Definition]
-> Recorded measurements are called data.
+> Recorded [[Measurement|measurements]] are called data.
 
 e.g. 
 ```

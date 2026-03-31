@@ -8,7 +8,7 @@ type: concept
 ---
 # Symbolic AI Systems
 1. [[Expert Systems]]
-2. [[Production Systems In AI|Production Systems]]
+2. [[Production Systems|Production Systems]]
 3. [[Logic-based Systems]] 
 4. [[Constraint Satisfaction System]]
 

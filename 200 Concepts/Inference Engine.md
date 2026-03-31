@@ -4,6 +4,8 @@ tags:
 created: 2026-03-13
 status: stable
 type: concept
+aliases:
+  - Control Program
 ---
 ---
 >[!definition]
@@ -15,9 +17,13 @@ type: concept
 ![[inference-engine-diagram.png]]
 
 - ==Interface engine is the mechanism that runs [[production system]].==
-- It's the **control program** of [[Expert Systems|expert systems]], [[Production Systems In AI|production system]], [[Logic-based Systems]]. 
+- It's the **control program** of [[Expert Systems|expert systems]], [[Production Systems|production system]], [[Logic-based Systems]]. 
 - It's kinda like CPU for reasoning
 - It doesn't contain knowledge, it operates on knowledge.
+
+>[!question]- How do we improve an expert system?
+> We don't enhance an expert system by modifying its inference engine, we enhance it by adding more domain knowledge.
+> 
 ## Inference Engine Execution Cycle
 - It runs as a [[Production Cycle|recognize-act cycle]]
  - [[Rete Algorithm]] optimizes inference engine such that it doesn't have to match all rules against all facts on every recognize-act cycle. 

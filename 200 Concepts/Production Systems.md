@@ -6,9 +6,10 @@ status: stable
 type: concept
 aliases:
   - production system
+  - production systems
 ---
 ---
-# Production Systems
+# Production Systems in AI
 >[!definition] 
 > A *production system* is a general computational model for **rule-based reasoning** and execution of search processes in artificial intelligence.
 
@@ -44,7 +45,7 @@ Mechanism that actually executes a rule against the database.
 | Partially Commutative | Order of compatible rules doesn't matter                    | Sudoku, Smoothie mixing        |
 | Commutative           | Both monotonic + partially commutative; order never matters | Shape matching                 |
 
->[!question] How does it connects to state space search?
+>[!question] How does it relate to state space search?
 > The production system is essentially the _engine_ that operates on the state space — rules are the operators, the database is the current state, and the control strategy is the search algorithm deciding which operator to apply next.
 
 ---

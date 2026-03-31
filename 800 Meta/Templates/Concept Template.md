@@ -10,10 +10,10 @@ type: concept
 >
 
 
-## Intuition
 
 
 
 
+## Summary
 
 ## Related Concepts
