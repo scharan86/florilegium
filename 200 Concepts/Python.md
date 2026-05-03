@@ -11,6 +11,7 @@ aliases:
 
 1. [[NumPy Library]]
 2. [[Pandas Library]]
+3. [[Data Wrangling]]
 
 
 ## Intuition

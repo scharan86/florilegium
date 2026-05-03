@@ -10,6 +10,7 @@ aliases:
   - Logic-based AI
 ---
 # Symbolic AI Trailhead
+
 > It refers to collection of all the methods in artificial intelligence research that uses human-readable (high-level symbolic) representations of problems, logic and search.
 
 It developed applications such as: knowledge-based systems like expert systems, symbolic mathematics, automated theorem provers, ontologies and etc.
@@ -21,7 +22,9 @@ It developed applications such as: knowledge-based systems like expert systems, 
 ## Foundations
 1. [[Artificial Intelligence]]
 2. [[Turing Test]]
+
 ## Core concepts
+
 ### Problem Representation and State Space Search
 1. [[Problem Representation]]
 2. [[Problem Solving Systems]]
@@ -57,6 +60,11 @@ It developed applications such as: knowledge-based systems like expert systems, 
 7. [[Expert System Shell]]
 8. [[Advantages of Expert Systems]]
 9. [[Limitations of Expert Systems]]
+### [[Reasoning]]
+1. [[Symbolic Reasoning]]
+2. [[Common Sense Reasoning]]
+3. [[Probabilistic Reasoning]]
+4. [[Fuzzy Logic Reasoning]]
 ## Differences
 1. [[State Space vs Search Space]]
 2. [[Simple Hill Climbing vs Steepest-Ascent Hill Climbing]]
@@ -67,7 +75,8 @@ It developed applications such as: knowledge-based systems like expert systems, 
 - **Data efficiency** — rules can be hand-crafted; no training data needed
 - **Precision** — logical inference is exact; no ambiguity
 - **Knowledge transfer** — domain experts can directly encode their knowledge
-## Weaknesses
+
+## Limitations
 - **Brittleness** — fails badly outside its defined rules; can't handle noise or ambiguity
 - **Knowledge acquisition bottleneck** — encoding real-world knowledge manually is incredibly expensive
 - **Combinatorial explosion** — search spaces grow impossibly large for complex problems

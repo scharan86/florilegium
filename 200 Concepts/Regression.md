@@ -34,6 +34,10 @@ The conditional expectation is provably the best prediction you can make to mini
 3. Understanding relationship
 4. Quantifying impact.
 
+>[!note] 
+>Linear Regression assumes that there is a linear relationship between the feature space (input) and output space and that the output space is *continuous*.  
+>
+>Logistic regression uses an [[Affine Transformation|affine transformation]] similar to that of linear regression and the product is termed as [[Logit|logit]]. The produced logit is passed through a sigmoid function to generate probabilities over a given set of classes or labels.
 ## Types of Regression
 
 | Type                           | What it does                                                                            |

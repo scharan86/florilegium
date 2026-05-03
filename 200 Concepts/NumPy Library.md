@@ -24,6 +24,7 @@ aliases:
 6. [[Boolean Array Methods]]
 7. [[Sorting in NumPy]]
 8. [[Random Number Generation]]
+9. [[NumPy Universal Functions]]
 
 >[!note]
 > `axis` refers to the **direction of operation**.

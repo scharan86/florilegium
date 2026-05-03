@@ -31,7 +31,6 @@ e.g. What will be the sales next year?
 2. [[Diagnostic Analytics]]
 3. [[Predictive Analytics]]
 4. [[Prescriptive Analytics]]
-
 ## Techniques Used
 1. [[Machine Learning]]
 2. [[AI Systems]]

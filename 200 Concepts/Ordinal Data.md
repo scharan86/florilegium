@@ -7,7 +7,6 @@ type: concept
 aliases:
   - ordinal data
 ---
----
 
 >[!Definition]
 >Ordinal data is a type of [[Qualitative Data|qualitative data]] that has a meaningful rank but the distance between these ranks is unknown or uninterpretable.
