@@ -20,12 +20,13 @@ aliases:
 >*Expert System Architecture allows the inference engine to be fully decoupled from the domain knowledge it reasons over.*
 
 ## Features
-1. The control program (inference engine) is completely decoupled from the knowledge it operates over (knowledge base). Therefore, knowledge can be incrementally added and modified in knowledge base without recompiling the control program.
-2. Expert systems use knowledge as [[Heuristic|heuristics]] as opposed to concrete algorithms that reach a conclusion. 
-3. **[[Expert System Shell|Expert system shell]]** is an expert system that can be used with different knowledge bases producing different expert systems.
-4. It has the capability to explain how it reached a particular conclusion.
-5. It uses [[Symbolic Representation|symbolic representation]] for knowledge and performs inference through symbolic computation. 
-6. Expert systems also reason using [[Meta Knowledge Reasoning | meta-knowledge]]. 
+1. The control program (inference engine) is completely decoupled from the knowledge it operates over (knowledge base). 
+2. Knowledge can be incrementally added and modified in knowledge base without recompiling the control program.
+3. Expert systems use knowledge as [[Heuristic|heuristics]] as opposed to concrete algorithms that reach a conclusion. 
+4. **[[Expert System Shell|Expert system shell]]** is an expert system that can be used with different knowledge bases producing different expert systems.
+5. It has the capability to explain how it reached a particular conclusion.
+6. It uses [[Symbolic Representation|symbolic representation]] for knowledge and performs inference through symbolic computation. 
+7. Expert systems also reason using [[Meta Knowledge Reasoning | meta-knowledge]]. 
 
 ## Core Components
 1. [[Knowledge Base]]

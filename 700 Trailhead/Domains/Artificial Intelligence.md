@@ -2,13 +2,14 @@
 tags:
   - cs/ai
   - trail
-created: 2026-03-13
-type: trailhead
+created: 2026-05-04
+type: concept
 aliases:
   - AI
   - artificial intelligence
   - ai
   - Aritificial intelligence
+status: draft
 ---
 
 # Artificial Intelligence

@@ -1,3 +1,24 @@
+---
+tags:
+  - cs/ai/analytics
+created: 2026-05-04
+status: draft
+type: concept
+aliases:
+  - EDA
+---
+---
+
+>[!Definition]
+>
+
+
+
+
+
+
+
+## Univariate vs Bivariate vs Multivariate
 
 | Aspect                        | Univariate EDA                                            | Bivariate EDA                                                            | Multivariate EDA                                                                         |
 | ----------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |

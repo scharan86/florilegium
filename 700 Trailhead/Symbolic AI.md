@@ -22,6 +22,7 @@ It developed applications such as: knowledge-based systems like expert systems, 
 ## Foundations
 1. [[Artificial Intelligence]]
 2. [[Turing Test]]
+3. [[Symbolic AI Tasks]]
 
 ## Core concepts
 
